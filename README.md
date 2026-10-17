@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that turns a messy raw telecom customer dataset into a clean, interactive Power BI dashboard for tracking churn, revenue and customer retention.
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview]([Dashboard_Screenshot.png](https://github.com/samridhdeshwar01-hue/Telecom-Customer-Churn-Analysis/blob/main/Dashboard%20Screenshot.png))
 
 ---
 
